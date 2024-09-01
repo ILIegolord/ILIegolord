@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ILIegolord
-- 👀 I’m interested in Web3, coding, education
-- 🌱 I’m currently learning how to build an Ethereum blockchain app
-- 💞️ I’m looking to collaborate on Web 3 applications
+- 👀 I’m interested in Android apps, Web3, coding
+- 🌱 I’m currently learning how to build more and more commplex apps
+- 💞️ I’m looking to collaborate on Android applications
 - 📫 How to reach me ... email fredi.wolf.97@gmail.com
 
 <!---
