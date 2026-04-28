@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ILIegolord
+- 👋 Hi, I’m 付雷
 - 👀 I’m a software engineer interested in AI on the Edge, Machine Learning, Android apps
 - 🌱 I enjoy  building more and more complex TinyML applications
 - 💞️ Embedded AI — Automation & Computer Vision
